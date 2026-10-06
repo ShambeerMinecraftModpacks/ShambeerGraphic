@@ -1,0 +1,13 @@
+{
+    mainOptions: {
+        totemVariant: "old",
+        arrowModel: "new",
+        fireAspectSwords: "on",
+        flameBow: "on",
+        multishotCrossbow: "on",
+        netheriteAxeModel: "twoHeads"
+    },
+    punchy: {
+        totemGlow: "on"
+    }
+}

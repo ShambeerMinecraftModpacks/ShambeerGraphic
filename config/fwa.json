@@ -1,0 +1,22 @@
+{
+  "shadow_animation_render_distance": "0.8",
+  "door_speed": "1.5",
+  "trapdoor_speed": "1.5",
+  "fencegate_speed": "1.5",
+  "lever_speed": "1.5",
+  "lectern_speed": "1.5",
+  "jukebox_speed": "1.5",
+  "bell_speed": "1.5",
+  "chiseled_bookshelf_speed": "1.5",
+  "cauldron_speed": "1.5",
+  "composter_state": "false",
+  "composter_speed": "1.5",
+  "dripleaf_speed": "1.5",
+  "button_speed": "1.5",
+  "redstone_speed": "1.5",
+  "repeater_speed": "1.5",
+  "end_portal_frame_speed": "1.5",
+  "campfire_speed": "1.5",
+  "chest_easing": "DEFAULT",
+  "shulkerbox_speed": "1.5"
+}

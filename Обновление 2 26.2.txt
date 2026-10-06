@@ -1,0 +1,4 @@
+Для версии 26.2 обновление 2
+-Обновлены модификации:Fabric API, chatanimation, DetailArmorBarReconstructed, effectual, elytratrails, fwa+, ImmediatelyFast, InventoryParticles, lithium, maseffects, moreculling, PacketFixer, punchy, rsls, shine, sodium + extra
+-Добавлены модификации: Camera Overhaul, Vectorientation
+Изменен ресурспак: Bare Bones Cute Pumpkin

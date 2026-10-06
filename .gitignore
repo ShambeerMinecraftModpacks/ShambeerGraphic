@@ -1,0 +1,17 @@
+.fabric/
+.mixin.out/
+cache/
+crash-reports/
+downloads/
+logs/
+saves/
+libraries/
+versions/
+usercache.json
+realms_persistence.json
+folders.txt
+config/.puzzle_cache/
+config/skinshuffle/skins/
+config/skinshuffle/skin-caches.json
+fancymenu_data/fancymenu_temp/
+fancymenu_data/video_thumbnails/

@@ -1,0 +1,7 @@
+type = last_world
+
+last_world {
+  is_server = false
+  world = C:/Users/ruslan/Documents/ruslan/minecraft/xlauncher/datalauncher/instances/26.2-fabric0.19.3/saves/Новый мир
+}
+

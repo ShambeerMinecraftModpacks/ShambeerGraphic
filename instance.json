@@ -1,0 +1,27 @@
+{
+  "name": "26.2-fabric0.19.3",
+  "author": "shamber01",
+  "description": "",
+  "version": "26.2-fabric0.19.3",
+  "edition": "java",
+  "runtime": {
+    "minecraft": "26.2",
+    "forge": "",
+    "neoForged": "",
+    "fabricLoader": "0.19.3",
+    "quiltLoader": "",
+    "optifine": "",
+    "labyMod": ""
+  },
+  "java": "C:\\Program Files\\Java\\jdk-25.0.4\\bin\\java.exe",
+  "url": "",
+  "icon": "",
+  "fileApi": "",
+  "server": null,
+  "lastAccessDate": 1791315887648,
+  "lastPlayedDate": 1791316160777,
+  "playtime": 297096,
+  "creationDate": 1791315887628,
+  "path": "C:\\Users\\ruslan\\Documents\\ruslan\\minecraft\\xlauncher\\datalauncher\\instances\\26.2-fabric0.19.3",
+  "env": {}
+}

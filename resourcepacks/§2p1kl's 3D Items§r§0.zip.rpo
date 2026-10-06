@@ -1,0 +1,5 @@
+{
+    tools: true,
+    armor: true,
+    buckets: false
+}
